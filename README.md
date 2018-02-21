@@ -7,8 +7,8 @@
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 #### Example usage:
-`https://timestamp-ms.herokuapp.com/December%2015,%202015`
-`https://timestamp-ms.herokuapp.com/1450137600`
+`https://timestamp-ms-ota.glitch.me/December%2015,%202015`
+`https://timestamp-ms-ota.glitch.me/1450137600`
 
 #### Example output
 `{ "unix": 1450137600, "natural": "December 15, 2015" }`
